@@ -1,8 +1,8 @@
 # Huge branded Swift currency converter
 
-![Github Demo](https://raw.githubusercontent.com/pdenya/ArmyOfOnes/master/Assets/demo.gif)
+![Demo](Assets/demo.gif)
 
-![Github icon](https://raw.githubusercontent.com/pdenya/ArmyOfOnes/master/Assets/icon.png)
+![icon](Assets/icon.png)
 
 ### Before compiling add the fonts
 
