@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArmyOfOnes/CurrencyConverter.swift"
+            timestampString = "499208982.485656"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "fetchExchangeRates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ArmyOfOnesTests/ArmyOfOnesTests.swift"
+            timestampString = "499197199.545982"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "testCurrencyConverterConvertAmountIsCorrect()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArmyOfOnesTests.ArmyOfOnesTests.testCurrencyConverterConvert () -&gt; ()"
+                  moduleName = "ArmyOfOnesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pdenya/htdocs/ArmyOfOnes/ArmyOfOnesTests/ArmyOfOnesTests.swift"
+                  timestampString = "499192533.655025"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ArmyOfOnesTests.ArmyOfOnesTests.(testCurrencyConverterConvert () -&gt; ()).(implicit closure #1)"
+                  moduleName = "ArmyOfOnesTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pdenya/htdocs/ArmyOfOnes/ArmyOfOnesTests/ArmyOfOnesTests.swift"
+                  timestampString = "499192533.656423"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
